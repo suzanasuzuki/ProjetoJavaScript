@@ -16,7 +16,7 @@ let etapas = [
                 nome: 'Beltrano da Silva',
                 partido: 'DEFG',
                 fotos:[
-                    {url:'602230.jpg', legenda: 'Vereador'}
+                    {url:'60223.jpg', legenda: 'Vereador'}
                 ]
             },
         ]
@@ -42,7 +42,7 @@ let etapas = [
                 vice: 'Zul',
                 fotos:[
                     {url:'60.jpg', legenda: 'Prefeito'},
-                    {url:'602230.jpg', legenda: 'Vice-Prefeito', small: true}
+                    {url:'242424.jpg', legenda: 'Vice-Prefeito', small: true}
                 ]
             },
         ]
